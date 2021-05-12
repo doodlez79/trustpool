@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "551055489653",
+    "project_id": "trustpool-5e5f9",
+    "storage_bucket": "trustpool-5e5f9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:551055489653:android:3f804e5469e2e7092b963c",
+        "android_client_info": {
+          "package_name": "ru.trustpool.client"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "551055489653-f62sn6p5j0dq3u54b32fguc8fs6lmeia.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjPtrtXrEmHXyBVtzVsmAbzslPM1R-pps"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "551055489653-f62sn6p5j0dq3u54b32fguc8fs6lmeia.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "551055489653-vfuukb8prrcp8jcsm8gj3tmc8khra4eg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "ru.trustpool.client"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

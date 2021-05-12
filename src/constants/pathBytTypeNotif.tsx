@@ -1,0 +1,11 @@
+enum TYPE_NOTIFICATION {
+  HASHRATE = 'HASHRATE',
+  FLUCTUATION = 'FLUCTUATION',
+  WORKERS = 'WORKERS'
+}
+
+export const pathByTypeNotif :{[n: string]: string} = {
+  [TYPE_NOTIFICATION.HASHRATE]: 'Home',
+  [TYPE_NOTIFICATION.FLUCTUATION]: 'Home',
+  [TYPE_NOTIFICATION.WORKERS]: 'Workers',
+};

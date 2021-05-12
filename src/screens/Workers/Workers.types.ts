@@ -1,0 +1,5 @@
+export enum WORKERS_CONTENT_TYPE {
+  ACTIVE= 'ACTIVE',
+  INACTIVE= 'INACTIVE',
+  ALL= 'ALL'
+}
